@@ -1,6 +1,6 @@
 # IW4xSP
 
-WARNING: DO NOT USE THE DO_NOT_RUN.exe!! Use the correct bat files.
+WARNING: DO NOT use the DO_NOT_RUN.exe!! Use the correct bat files.
 
 This does indeed work with non-Steam versions of the game.
 
